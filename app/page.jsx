@@ -1,5 +1,11 @@
+import TicTacToe from "@components/TicTacToe";
+
 const Home = () => {
-  return <div>page</div>;
+  return (
+    <div>
+      <TicTacToe></TicTacToe>
+    </div>
+  );
 };
 
 export default Home;

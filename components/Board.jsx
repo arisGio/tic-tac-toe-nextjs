@@ -1,5 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
+import Scoreboard from "./ScoreBoard";
+import Square from "./Square";
 
 function Board() {
   const [squares, setSquares] = useState(Array(9).fill(null));

@@ -1,4 +1,4 @@
-"use client";
+import Board from "./Board";
 
 function TicTacToe() {
   return (
