@@ -1,3 +1,19 @@
+# Project setup
+
+- TypeScript -> NO
+- ESLint -> NO
+- Tailwind CSS -> YES
+- src/ dir -> NO
+- App Router -> NO
+- import alias -> NO
+- Delete pages/ dir & create a new app/ dir.
+- Create components/ dir at the root.
+- In case you are using a MongoDB Mongoose database models create models/ dir.
+- Delete public/ and create a new one.
+- OPTIONAL: create utils/ for utility functions.
+- OPTIONAL: create .env file to store secure keys.
+- Inside public/ we have assets/icons/ & assets/images/.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
