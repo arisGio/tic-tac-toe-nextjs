@@ -8,3 +8,5 @@ function Scoreboard({ xWins, oWins }) {
     </div>
   );
 }
+
+export default Scoreboard;

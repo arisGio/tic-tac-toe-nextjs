@@ -9,3 +9,5 @@ function TicTacToe() {
     </div>
   );
 }
+
+export default TicTacToe;
